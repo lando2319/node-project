@@ -1,0 +1,3 @@
+[submodule "share-lib"]
+	path = share-lib
+	url = https://github.com/lando2319/share-lib
